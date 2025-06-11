@@ -3,5 +3,4 @@ public class App {
         System.out.println("Hello, World!");
         System.out.println("こんにちは！世界！");
         System.out.println("開発を行います！");
-    }
-}
+    }}
